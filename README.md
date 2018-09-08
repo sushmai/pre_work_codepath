@@ -5,7 +5,7 @@
 
 Submitted by: **Sushma**
 
-Time spent: **1** hours spent in total(new to mac)
+Time spent: **2** hours spent in total
 
 ## User Stories
 
